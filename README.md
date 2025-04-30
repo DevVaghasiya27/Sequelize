@@ -1,2 +1,2 @@
-# Sequelize
-Sequelize
+#  NodeJs Sequelize
+NodeJs MySQL Sequelize
